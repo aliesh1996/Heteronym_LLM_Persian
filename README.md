@@ -1,0 +1,1 @@
+Here are some codes for detecting heteronym words in sentences particularly in Persian language that uses Hooshvarlab's Bert model for Persian language. With some changes to the language model, they can be used for other languages as well. 
